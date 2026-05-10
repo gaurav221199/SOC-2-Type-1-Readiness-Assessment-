@@ -2,7 +2,6 @@
 
 **A simulated GRC engagement demonstrating end-to-end SOC 2 Type 1 readiness delivery for an Australian SaaS company expanding to the United States.**
 
-> ⚠️ **Disclaimer:** This is a portfolio project. "MeridianHealth Analytics Pty Ltd" is a fictional company. All findings, controls, policies, and artefacts are simulated for the purpose of demonstrating SOC 2 readiness assessment capability. No real client data is used. All artefacts are original work product.
 
 ---
 
@@ -86,8 +85,7 @@ Gaurav Govind — GRC Analyst | ISO 27001 Lead Auditor | APRA CPS 234/230 | Thir
 
 Sydney, NSW, Australia
 
-[LinkedIn] | [GitHub] | [Email]
+> ⚠️ **Disclaimer:** This is a portfolio project. "MeridianHealth Analytics Pty Ltd" is a fictional company. All findings, controls, policies, and artefacts are simulated for the purpose of demonstrating SOC 2 readiness assessment capability. No real client data is used. All artefacts are original work products.
 
 ---
 
-*This project is part of a portfolio demonstrating GRC consulting capability across AU and US assurance frameworks. For the corresponding APRA CPS 234 / Privacy Act 1988 engagement, see the Atlassian Cloud TPRM project repository.*
